@@ -1,9 +1,10 @@
 body{
     background-color: rgb(246, 249, 252);
-}
+    }
 
 header{
     background-color: antiquewhite;
+    margin: 100px auto;
 }
 img{
     width: 50%;
